@@ -1,4 +1,4 @@
-### Dashboard
+### Lugatexboard is Sinatra dashboard
 
 Lugatexboard is a Sinatra based for dashboards.
 This app was created for displaying custom dashboards on TVs around the office.
